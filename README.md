@@ -7,3 +7,4 @@ This project is in early beta stage.
 
 ## Todo
 - [ ] Documentation
+- [ ] Add updater
