@@ -1,5 +1,4 @@
 *.exe
 Data/
 App/Mattermost
-!Other/Update/*.ps1
-Other/Update/*
+Download
