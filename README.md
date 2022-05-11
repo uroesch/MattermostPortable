@@ -16,6 +16,9 @@ markets itself as an open-source alternative to Slack and Microsoft Teams.
 Mattermost desktop applications are available for Windows, Mac and Linux 
 operating systems.
 
+Note: As of recent the upstream package format changed. Until I figure
+out how to build the packages again no new updates will be available.
+
 ## Runtime dependencies
 * 32-bit or 64-bit version of Windows.
 
